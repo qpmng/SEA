@@ -1,4 +1,4 @@
-# Switzerland Economic Analysis
+# UW-Madison ECON461: Switzerland Economic Analysis
 ## Introduction
 Switzerland is a fascinating country with one of the highest levels of per capita GDP in the world, a stable independent currency, and robust economic trade (“Swiss Economy – Facts and Figures”). When considering Switzerland’s balance of payments, it is perhaps not surprising to learn that Switzerland held a current account surplus over the span of the 2005 to 2020 (see chart A1). This suggests that Switzerland has consistently been a net lender to the rest of the world, with national savings in excess of domestic investment for the past fifteen years (see chart A2). As domestic savings rises, there is less need for foreign financial capital to meet investment needs. However, as a small open economy, Switzerland is highly exposed to external disruptions (Thomas). Despite an average current account surplus of $48 trillion, there has been substantial fluctuations in this balance over the last two decades (see chart A1).
 ## Current Account, Financial Account, and Overall Balance
